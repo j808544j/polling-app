@@ -115,11 +115,6 @@ model Option {
    - Import project.
    - Click "Add Database" → Select **Neon PostgreSQL**.
    - Vercel will auto-configure `DATABASE_URL`.
-3. **Run Migrations**
-   ```sh
-   npx prisma migrate deploy
-   ```
-4. **Your app is live!** 🎉
 
 ---
 
